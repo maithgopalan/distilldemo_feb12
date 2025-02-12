@@ -1,0 +1,12 @@
+name: "distilldemo_feb12"
+title: "Distill Blog Demo "
+description: |
+  Distill Blog Demo 
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article

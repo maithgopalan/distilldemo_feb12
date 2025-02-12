@@ -1,0 +1,19 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Distill Blog Demo ",
+    "description": "Welcome to our new blog, Distill Blog Demo . We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-12",
+    "categories": [],
+    "contents": "\r\nCheck it out. Here’s an amazing plot, with ggplot2.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/welcome/welcome_files/figure-html5/plot-1.png",
+    "last_modified": "2025-02-12T12:17:20-08:00",
+    "input_file": {}
+  }
+]
