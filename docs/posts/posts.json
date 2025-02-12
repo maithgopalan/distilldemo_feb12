@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2025-02-12-my-first-post/",
+    "title": "My first post",
+    "description": "A short description of the post.",
+    "author": [
+      {
+        "name": "Maithreyi Gopalan",
+        "url": "https://maithgopalan.github.io/"
+      }
+    ],
+    "date": "2025-02-12",
+    "categories": [],
+    "contents": "\r\nNow let’s look at the same plot as in the welcome post but with l-body-outset. And now I’m just going to say a bunch of random stuff so we can see where the text ends and how the plot goes beyond that.\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+    "preview": "posts/2025-02-12-my-first-post/my-first-post_files/figure-html5/plot-ex2-1.png",
+    "last_modified": "2025-02-12T12:26:39-08:00",
+    "input_file": {}
+  },
+  {
     "path": "posts/welcome/",
     "title": "Welcome to Distill Blog Demo ",
     "description": "Welcome to our new blog, Distill Blog Demo . We hope you enjoy \nreading what we have to say!",
